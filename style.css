@@ -62,9 +62,6 @@ h2{
 }
 
 @media (max-width:396px) {
-  br{
-    display: none;
-  }
   .img img{
     width: 99%;
   }
